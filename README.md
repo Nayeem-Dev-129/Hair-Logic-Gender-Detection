@@ -117,8 +117,6 @@ Detected Gender: Male
 
 Hair Type: Long
 
-Final Prediction: Female
-
 ---
 
 # Author
