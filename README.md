@@ -18,8 +18,8 @@ The system predicts:
 Project Logic:
 
 - If age is between 20–30:
-  - Long Hair → Female
-  - Short Hair → Male
+  - Long Hair → Male
+  - Short Hair → Female
 
 - Otherwise:
   - Original Gender Prediction is used
@@ -85,11 +85,7 @@ pip install -r requirements.txt
 
 ---
 
-## Download Hair Dataset
-
-```bash
-python download_dataset.py
-```
+## Download Datasets
 
 ---
 
